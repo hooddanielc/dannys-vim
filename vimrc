@@ -6,3 +6,10 @@ colo monokai
 set tabstop=2
 set shiftwidth=2
 set expandtab
+
+:map <C-a> GVgg
+:map <C-s> :w <Enter>
+:map <C-t> :tabnew <Enter>
+:map <C-f> /
+:map <C-h> :%s/
+
