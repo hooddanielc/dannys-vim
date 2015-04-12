@@ -6,6 +6,7 @@ colo monokai
 set tabstop=2
 set shiftwidth=2
 set expandtab
+autocmd vimenter * NERDTree
 
 :map <C-a> GVgg
 :map <C-s> :w <Enter>

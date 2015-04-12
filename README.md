@@ -6,10 +6,7 @@
 # installation
 
 ```
-cd ~/.vim
-git clone git@github.com:hooddanielc/dannys-vim.git .vim
-cd .vim
-./install.sh
+git clone --recursive git@github.com:hooddanielc/dannys-vim.git ~/.vim && ~/.vim/install.sh
 ```
 
 ## plugin reference
@@ -18,3 +15,4 @@ cd .vim
 :NERDTree
 ctrl+p
 ```
+
