@@ -6,7 +6,7 @@
 # installation
 
 ```
-git clone --recursive git@github.com:hooddanielc/dannys-vim.git ~/.vim && ~/.vim/install.sh
+git clone --recursive https://github.com/hooddanielc/dannys-vim.git ~/.vim && ~/.vim/install.sh
 ```
 
 ## plugin reference
